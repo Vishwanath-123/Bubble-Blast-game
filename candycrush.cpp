@@ -28,7 +28,7 @@ void Swap(piece p1,piece p2)
     grid[p2.row][p2.col]=p2;
 }
 
-int ns=10;
+int ns=15;
 int s=0;
 
 int main()
